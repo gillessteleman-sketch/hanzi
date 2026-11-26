@@ -1,1 +1,1 @@
-{"name":"Hanzi · Chinese karaktertracker","short_name":"Hanzi","start_url":"./","scope":"./","display":"standalone","background_color":"#101916","theme_color":"#101916","icons":[{"src":"icon.png","sizes":"512x512","type":"image/png"}]}
+{"name": "Hanzi \u00b7 Learn Chinese", "short_name": "Hanzi", "start_url": "./?v=3.1", "scope": "./", "display": "standalone", "background_color": "#101916", "theme_color": "#101916", "icons": [{"src": "icon.png?v=31", "sizes": "512x512", "type": "image/png"}]}
